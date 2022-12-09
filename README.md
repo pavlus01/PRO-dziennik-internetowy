@@ -1,1 +1,1 @@
-# PRO-dziennik-internetowy-doku
+# PRO-dziennik-internetowy dokumentacja projektu
